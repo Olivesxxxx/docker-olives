@@ -2,3 +2,4 @@ haroldli/xiaoya-tvbox:latest
 p3terx/aria2-pro:latest
 p3terx/ariang:latest
 linuxserver/qbittorrent:latest
+cloudnas/clouddrive2:latest
